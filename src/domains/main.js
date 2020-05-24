@@ -26,6 +26,7 @@ class MainDomain {
     start() {
         this.game = new Phaser.Game(window.innerWidth, window.innerHeight, Phaser.AUTO, 'game', { create: this.create });
                // Add exit button
+        Core.utils.adjustAspectRatio();
 		Core.utils.addExitButton();
     }
 
