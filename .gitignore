@@ -1,2 +1,5 @@
 node_modules
 build
+assets/bkp
+package-lock.json
+yarn.lock

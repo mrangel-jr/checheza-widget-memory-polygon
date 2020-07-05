@@ -14,4 +14,5 @@ class ExampleWidget extends Widget {
     }
 }
 
+
 export default new ExampleWidget();

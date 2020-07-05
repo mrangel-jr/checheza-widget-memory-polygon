@@ -1,11 +1,11 @@
 const Manifest = {
-    "name": "Memory Game",
-    "identifier": "checheza.widget.memory",
+    "name": "Polygons Memory Game",
+    "identifier": "checheza.widget.memorypolygon",
     "author": "Checheza AB",
     "version": "0.1",
     "type": "widget",
     "category": "braintrain",
-    "icon": "checheza.widget.memory.jpg"
+    "icon": "brain.memorypolygons.png"
 };
 
 export default Manifest;

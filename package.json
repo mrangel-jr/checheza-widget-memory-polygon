@@ -1,7 +1,7 @@
 {
-  "name": "checheza-widget-template",
+  "name": "checheza-widget-memory-polygon",
   "version": "1.0.0",
-  "description": "Example Checheza Widget",
+  "description": "Memory Card with Polygons",
   "main": "main.js",
   "scripts": {
     "build": "./node_modules/.bin/webpack"
