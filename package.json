@@ -1,5 +1,5 @@
 {
-  "name": "checheza-widget-memory-polygon",
+  "name": "checheza.widget.memorypolygon",
   "version": "1.0.0",
   "description": "Memory Card with Polygons",
   "main": "main.js",
